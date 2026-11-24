@@ -1,6 +1,6 @@
-openpyxl
-jupyter
-pykernel
-pandas
-psycopg2
-sqlalchemy
+openpyxl==3.1.5
+jupyter==8.10.0
+ipykernel==7.4.0
+pandas==2.3.3
+sqlalchemy==2.0.45
+python-dotenv==1.2.4

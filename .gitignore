@@ -1,3 +1,4 @@
 # Ignore data as it contains all companies sensible data
 data/
 venv/
+.env
